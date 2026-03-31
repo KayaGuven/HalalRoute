@@ -117,10 +117,4 @@ Depending on the third-party services used by the app, data may be processed on 
 
 We may update this Privacy Policy from time to time. The updated version should include a revised "Last updated" date.
 
-## 12. Contact
 
-For privacy questions or requests, contact:
-
-- Email: support@halalroute.app
-
-If this email is not yet active, replace it with your real support email before publishing the policy.
