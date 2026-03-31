@@ -1,74 +1,126 @@
-**Privacy Policy**
+# HalalRoute Privacy Policy
 
-This privacy policy applies to the HalalRoute app (hereby referred to as "Application") for mobile devices that was created by Kaya Güven (hereby referred to as "Service Provider") as an Ad Supported service. This service is intended for use "AS IS".
+Last updated: 2026-03-30
 
-**Information Collection and Use**
+HalalRoute ("we", "our", or "us") provides a mobile app that helps users discover halal restaurants and mosques, view nearby places on a map, build routes, and save places for later. This Privacy Policy explains what information the app uses, how it is used, and what choices users have.
 
-The Application collects information when you download and use it. This information may include information such as
+This policy should be published at a public HTTPS URL before store submission. Replace any placeholder contact details with your real support contact before publishing.
 
-*   Your device's Internet Protocol address (e.g. IP address)
-*   The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
-*   The time spent on the Application
-*   The operating system you use on your mobile device
+## 1. Information We Use
 
-The Application collects your device's location, which helps the Service Provider determine your approximate geographical location and make use of in below ways:
+HalalRoute may use the following categories of information:
 
-*   Geolocation Services: The Service Provider utilizes location data to provide features such as personalized content, relevant recommendations, and location-based services.
-*   Analytics and Improvements: Aggregated and anonymized location data helps the Service Provider to analyze user behavior, identify trends, and improve the overall performance and functionality of the Application.
-*   Third-Party Services: Periodically, the Service Provider may transmit anonymized location data to external services. These services assist them in enhancing the Application and optimizing their offerings.
+- Location data
+  - Approximate or precise device location may be used to show nearby halal restaurants, mosques, and route-related results.
+- Search and place interaction data
+  - Search terms entered in the app and place selections are used to provide search, map, and route functionality inside the app.
+- Saved places and app preferences
+  - Favorites, language selection, and distance unit preferences are stored locally on the device.
+- Device and advertising-related data
+  - If ads are enabled in the app, third-party advertising services may collect device identifiers, IP address, app interaction data, and similar technical information to provide and measure ads.
 
-The Application does not use Artificial Intelligence (AI) technologies to process your data or provide features.
+## 2. How We Use Information
 
-The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
+We use information to:
 
-For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
+- show nearby halal restaurants and mosques
+- display map results and place details
+- help users build route-based place suggestions
+- remember favorites and app preferences
+- display ads inside the app when advertising is enabled
+- maintain app functionality, reliability, and performance
 
-**Third Party Access**
+## 3. Third-Party Services
 
-Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
+HalalRoute relies on third-party services to provide core app features.
 
-Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
+### Google Maps Platform and Google Places
 
-*   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
+The app uses Google Maps Platform and Google Places APIs to:
 
-The Service Provider may disclose User Provided and Automatically Collected Information:
+- display maps
+- fetch nearby places
+- retrieve place details and photos
+- support route-related lookups
 
-*   as required by law, such as to comply with a subpoena, or similar legal process;
-*   when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
-*   with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
+When these features are used, relevant requests may be sent from the device to Google.
 
-**Opt-Out Rights**
+### Google AdMob
 
-You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+The app includes Google AdMob for banner and interstitial advertising. When ads are shown, Google and its partners may process technical and advertising-related data such as:
 
-**Data Retention Policy**
+- device identifiers
+- IP address
+- app interaction data
+- diagnostic information
+- ad performance information
 
-The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at guven9171@gmail.com and they will respond in a reasonable time.
+AdMob data practices may also depend on Google’s own policies and user settings.
 
-**Children**
+## 4. Data Sharing
 
-The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
+We do not sell user personal information.
 
-The Application does not address anyone under the age of 13\. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. In the case the Service Provider discover that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (guven9171@gmail.com) so that they will be able to take the necessary actions.
+We may share or transmit data only as needed to operate app features through third-party service providers, including:
 
-**Security**
+- Google Maps Platform / Google Places for maps and place lookups
+- Google AdMob for in-app advertising
 
-The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
+Favorites and preferences are otherwise stored locally on the device unless a platform or third-party SDK processes data as part of its own service delivery.
 
-**Changes**
+## 5. Data Storage and Retention
 
-This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
+- Favorites and settings are stored locally on the user’s device until removed by the user, app data is cleared, or the app is uninstalled.
+- Search input is used to service app features and is not designed as a long-term account history inside the app.
+- We do not currently provide user account registration or a cloud profile system inside HalalRoute.
 
-This privacy policy is effective as of 2026-03-17
+## 6. Permissions
 
-**Your Consent**
+HalalRoute may request the following permissions:
 
-By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by us.
+- Location permission
+  - Used to show nearby halal restaurants, mosques, and route-based suggestions.
+- Internet access
+  - Used to load maps, place data, photos, and ads.
 
-**Contact Us**
+If location access is denied, some nearby and route-related features may not work correctly.
 
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at guven9171@gmail.com.
+## 7. What We Do Not Intentionally Collect
 
-* * *
+HalalRoute does not intentionally request or collect the following directly through its own app features:
 
-This privacy policy page was generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
+- payment information
+- contact lists
+- microphone recordings
+- camera input
+- photo library content
+- account passwords
+
+## 8. Children
+
+HalalRoute is not intended for children under the age required by applicable law to provide consent on their own. If you believe personal data from a child has been provided through the app inappropriately, contact us so we can review the issue.
+
+## 9. User Choices
+
+Users can:
+
+- deny or revoke location permission in device settings
+- remove saved places inside the app
+- clear local app data through device settings
+- uninstall the app to remove locally stored app data from the device, subject to platform behavior
+
+## 10. International Users
+
+Depending on the third-party services used by the app, data may be processed on infrastructure located in countries outside the user’s country of residence.
+
+## 11. Changes to This Policy
+
+We may update this Privacy Policy from time to time. The updated version should include a revised "Last updated" date.
+
+## 12. Contact
+
+For privacy questions or requests, contact:
+
+- Email: support@halalroute.app
+
+If this email is not yet active, replace it with your real support email before publishing the policy.
